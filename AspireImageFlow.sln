@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireImageFlow.AppHost", "AspireImageFlow.AppHost\AspireImageFlow.AppHost.csproj", "{386E256C-9E54-4658-85DD-808A206DBA15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireImageFlow.ServiceDefaults", "AspireImageFlow.ServiceDefaults\AspireImageFlow.ServiceDefaults.csproj", "{533997A0-BC83-4A92-B0A5-9557B29320CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386E256C-9E54-4658-85DD-808A206DBA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386E256C-9E54-4658-85DD-808A206DBA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386E256C-9E54-4658-85DD-808A206DBA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386E256C-9E54-4658-85DD-808A206DBA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533997A0-BC83-4A92-B0A5-9557B29320CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533997A0-BC83-4A92-B0A5-9557B29320CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533997A0-BC83-4A92-B0A5-9557B29320CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533997A0-BC83-4A92-B0A5-9557B29320CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1638E4-10AB-4845-BD29-61B4EA7C8983}
+	EndGlobalSection
+EndGlobal
